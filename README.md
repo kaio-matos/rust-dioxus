@@ -1,4 +1,4 @@
-# Development
+# rust-dioxus
 
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
 
@@ -15,4 +15,3 @@ To run for a different platform, use the `--platform platform` flag. E.g.
 dx serve --platform desktop
 ```
 
-# rust-dioxus
